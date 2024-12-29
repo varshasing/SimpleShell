@@ -1,4 +1,4 @@
-# ENG EC440: Operating Systems, Varsha Singh, U50072781
+# Operating Systems: Varsha Singh
 ## Homework 1 Mini-Deadline Specifications
 #### For the first (mini-deadline),  you shell must demonstrate that it can accept user-input, parse that input, and invoke simple commands with arguments. That is, you will need to implement the parsing logic, and at least steps 1, 2, and 4 from the "some hints" section. In order to test your shell-program, it must REPL and for each command-line output the following:
 ```c
